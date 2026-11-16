@@ -1,0 +1,78 @@
+
+[
+    {
+        "question": "What are the consequences of plagiarism?",
+        "hypothesis": "The university may impose penalties when plagiarism is established.",
+        "expected_label": "entailment"
+    },
+    {
+        "question": "Which plagiarism detection software does the university use?",
+        "hypothesis": "The university uses Turnitin to detect plagiarism.",
+        "expected_label": "neutral"
+    },
+    {
+        "question": "What is plagiarism?",
+        "hypothesis": "Plagiarism is a specific form of cheating.",
+        "expected_label": "entailment"
+    },
+    {
+        "question": "Why do students plagiarize?",
+        "hypothesis": "Students plagiarize because they want to avoid attending lectures.",
+        "expected_label": "neutral"
+    },
+    {
+        "question": "How can students avoid plagiarism?",
+        "hypothesis": "Students should acknowledge the sources of ideas and information they use.",
+        "expected_label": "entailment"
+    },
+    {
+        "question": "How should students use quotations?",
+        "hypothesis": "Students should acknowledge material taken from other sources.",
+        "expected_label": "entailment"
+    },
+    {
+        "question": "What is the capital city of Japan?",
+        "hypothesis": "Tokyo is the capital city of Japan.",
+        "expected_label": "neutral"
+    },
+    {
+        "question": "Which citation style does the booklet require?",
+        "hypothesis": "The booklet requires students to use APA referencing.",
+        "expected_label": "neutral"
+    },
+    {
+        "question": "What is the maximum acceptable similarity percentage?",
+        "hypothesis": "The maximum acceptable similarity percentage is 20 percent.",
+        "expected_label": "neutral"
+    },
+    {
+        "question": "How many days does a student have to appeal a plagiarism allegation?",
+        "hypothesis": "Students have 30 days to appeal a plagiarism allegation.",
+        "expected_label": "neutral"
+    },
+    {
+        "question": "What is plagiarism?",
+        "hypothesis": "Plagiarism is not a form of cheating.",
+        "expected_label": "contradiction"
+    },
+    {
+        "question": "What are the consequences of plagiarism?",
+        "hypothesis": "The university does not impose penalties for plagiarism.",
+        "expected_label": "contradiction"
+    },
+    {
+        "question": "Why should students avoid plagiarism?",
+        "hypothesis": "Plagiarism is fair to other students who complete their assignments independently.",
+        "expected_label": "contradiction"
+    },
+    {
+        "question": "How should students use quotations?",
+        "hypothesis": "Students do not need to acknowledge material taken from other sources.",
+        "expected_label": "contradiction"
+    },
+    {
+        "question": "What should students do when using another person's ideas?",
+        "hypothesis": "Students can submit another person's ideas as their own without referencing them.",
+        "expected_label": "contradiction"
+    }
+]

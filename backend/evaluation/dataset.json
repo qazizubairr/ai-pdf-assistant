@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "question": "What is plagiarism?",
+      "relevant_pages": [3, 5],
+      "answerable": true
+    },
+    {
+      "id": 2,
+      "question": "What are the consequences of plagiarism?",
+      "relevant_pages": [4, 12],
+      "answerable": true
+    },
+    {
+      "id": 3,
+      "question": "Why is paraphrasing sometimes considered plagiarism?",
+      "relevant_pages": [6, 9],
+      "answerable": true
+    },
+    {
+      "id": 4,
+      "question": "How can students avoid plagiarism?",
+      "relevant_pages": [3, 4, 9],
+      "answerable": true
+    },
+    {
+      "id": 5,
+      "question": "How should students use quotations from other sources?",
+      "relevant_pages": [9],
+      "answerable": true
+    },
+    {
+      "id": 6,
+      "question": "Why do students plagiarize?",
+      "relevant_pages": [4],
+      "answerable": true
+    },
+    {
+      "id": 7,
+      "question": "What is the difference between collaboration and collusion?",
+      "relevant_pages": [3],
+      "answerable": true
+    },
+    {
+      "id": 8,
+      "question": "What is the best way to manage university assignment deadlines?",
+      "relevant_pages": [],
+      "answerable": false
+    },
+    {
+      "id": 9,
+      "question": "How can students avoid accidentally copying material when taking notes?",
+      "relevant_pages": [9],
+      "answerable": true
+    },
+    {
+      "id": 10,
+      "question": "What is the capital city of Japan?",
+      "relevant_pages": [],
+      "answerable": false
+    },
+    {
+        "id": 11,
+        "question": "Which citation style does the booklet require: APA, MLA, or Harvard?",
+        "relevant_pages": [],
+        "answerable": false
+      },
+      {
+        "id": 12,
+        "question": "Which plagiarism detection software does the university use?",
+        "relevant_pages": [],
+        "answerable": false
+      },
+      {
+        "id": 13,
+        "question": "What is the maximum acceptable similarity percentage for an assignment?",
+        "relevant_pages": [],
+        "answerable": false
+      },
+      {
+        "id": 14,
+        "question": "How many days does a student have to appeal a plagiarism allegation?",
+        "relevant_pages": [],
+        "answerable": false
+      },
+      {
+        "id": 15,
+        "question": "Who is Pakistan's first prime minister?",
+        "relevant_pages": [],
+        "answerable": false
+      }
+  ]

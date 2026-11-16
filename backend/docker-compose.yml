@@ -1,0 +1,17 @@
+
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: ai-pdf-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: aiuser
+      POSTGRES_PASSWORD: localpassword123
+      POSTGRES_DB: pdf_assistant
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
